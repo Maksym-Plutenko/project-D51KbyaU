@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/8.51f12ae4.chunk.js","mappings":"sJAIE,UAJU,WACR,OAAO,uBACR,C","sources":["pages/Day.jsx"],"sourcesContent":["const Day = () => {\n    return <></>;\n  };\n  \n  export default Day;\n  "],"names":[],"sourceRoot":""}
